@@ -6,18 +6,18 @@
 /* 1. DATA — ganti nama file, caption, dan level (0-100) di sini */
 const hobiFotos = [
   { src: "assets/images/hobi/images.jpg", caption: "Roadbike" },
-  { src: "assets/images/hobi/Berenang1.png", caption: "Jalur sepi sebelum kota bangun." },
-  { src: "assets/images/hobi/lari.jpg", caption: "Istirahat sebentar, kopi dari termos." },
-  { src: "assets/images/hobi/gym.jpg", caption: "Bayangan panjang di jalan desa." },
-  { src: "assets/images/hobi/reze.jpg", caption: "Rantai bersih, tujuan belum jelas." },
-  { src: "assets/images/hobi/waguri.jpg", caption: "Pulang saat lampu jalan menyala." }
+  { src: "assets/images/hobi/Berenang1.png", caption: "Abang abangan renang." },
+  { src: "assets/images/hobi/lari.jpg", caption: "Pelari kalcer." },
+  { src: "assets/images/hobi/gym.jpg", caption: "Gym 3 bulan." },
+  { src: "assets/images/hobi/reze.jpg", caption: "My istri 1." },
+  { src: "assets/images/hobi/waguri.jpg", caption: "My istri 2." }
 ];
 
 // Hobi lain? Tambahkan satu objek baru di array ini.
 const hobi = [
   { 
     nama: "Bersepeda Berenang Lari Gym dan Nonton Anime",
-    teks: "Akhir pekan saya dimulai sebelum matahari naik. Olahraga adalah cara saya menenagkan pikiran",
+    teks: "Akhir pekan saya dimulai sebelum matahari naik. Olahraga adalah cara menenangkan pikiran bagi saya",
     foto: hobiFotos
   }
 ];
